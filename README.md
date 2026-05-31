@@ -21,7 +21,7 @@ class MadanSS:
     def __init__(self):
         self.name           = "Madan S S"
         self.location       = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.degree         = "M.Sc. Computer Technology (Final Year)"
+        self.degree         = "M.Sc. SOFTWARE SYSTEMS (4th Year)"
         self.college        = "Sri Krishna Arts & Science College"
         self.stack          = [
             "React.js", "Node.js", "Python",
@@ -179,9 +179,9 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
+| Degree | Institution | Year | current year |
 |:-------|:------------|:----:|:-----:|
-| 🎓 M.Sc. Computer Technology | Sri Krishna Arts & Science College, Coimbatore (Bharathiar University) | 2023 – 2028 | Final Year |
+| 🎓 M.Sc. Software systems Sri Krishna Arts & Science College, Coimbatore (Bharathiar University) | 2023 – 2028 | 4th Year |
 | 📚 Higher Secondary Education | Amrita Vidyalayam, Nallampalayam | 2020 – 2023 | — |
 
 </div>

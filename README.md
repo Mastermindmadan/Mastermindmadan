@@ -181,7 +181,7 @@ print(me.motto())
 
 | Degree | Institution | Year | current year |
 |:-------|:------------|:----:|:-----:|
-| 🎓 M.Sc. Software systems Sri Krishna Arts & Science College, Coimbatore (Bharathiar University) | 2023 – 2028 | 4th Year |
+| 🎓 M.Sc. Software systems  |Sri Krishna Arts & Science College, Coimbatore (Bharathiar University)  | 2023 – 2028| 4th Year |
 | 📚 Higher Secondary Education | Amrita Vidyalayam, Nallampalayam | 2020 – 2023 | — |
 
 </div>
